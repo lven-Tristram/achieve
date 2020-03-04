@@ -28,3 +28,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+![image](https://github.com/lven-Tristram/practice-one/blob/master/1.JPG)
