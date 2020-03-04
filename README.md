@@ -38,4 +38,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ![image](图片/7.JPG)
 ![image](图片/7.1.JPG)
 ![image](图片/8.JPG)
-![image](图片/6.1.JPG)
