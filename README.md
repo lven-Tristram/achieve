@@ -28,14 +28,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![image](https://github.com/lven-Tristram/practice-one/blob/master/1.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/2.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/3.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/4.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/5.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/6.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/6.1.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/6.2.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/7.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/7.1.JPG)
-![image](https://github.com/lven-Tristram/practice-one/blob/master/8.JPG)
+![image](images/1.JPG)
+
